@@ -1,4 +1,4 @@
-﻿ID;RegioS;JongerDan5Jaar_4;k_5Tot10Jaar_5;k_10Tot15Jaar_6;k_15Tot20Jaar_7;k_20Tot25Jaar_8;k_25Tot45Jaar_9;k_45Tot65Jaar_10;k_65Tot80Jaar_11;k_80JaarOfOuder_12;ZeerSterkStedelijk_52;SterkStedelijk_53;MatigStedelijk_54;WeinigStedelijk_55;NietStedelijk_56;TotaalAantalBanen_112;ParticuliereHuishoudensExclStudenten_121;BedrijfsvestigingenTotaal_164;AfstandTotSchoolBasisonderwijs_216;AantalGroteSupermarktenBinnen3Km_223;AantalRestaurantsBinnen3Km_225
+﻿ID;Regiocode;JongerDan5Jaar;5Tot10Jaar;10Tot15Jaar;15Tot20Jaar;20Tot25;25Tot45Jaar;45Tot65Jaar;65Tot80Jaar;80JaarOfOuder;ZeerSterkStedelijk;SterkStedelijk;MatigStedelijk;WeinigStedelijk;NietStedelijk;TotaalAantalBanen;ParticuliereHuishoudens;Bedrijfsvestigingen;AfstandTotSchoolBasisschool;AantalGroteSupermarktenBinnen3Km;AantalRestaurantsBinnen3Km
 1505;GM1680;938;1153;1440;1606;965;4398;8396;5017;1477;0;0;0;4180;21210;     6.0;    11.0;2230;     1.2;     1.5;     4.9
 1531;GM0738;771;882;852;962;804;2998;3644;1726;514;0;0;0;4440;8720;     3.6;     5.0;1590;     0.7;     1.8;     1.2
 1557;GM0358;1545;2016;2192;1994;1570;7112;9304;4321;1445;0;10;12650;15940;2900;    17.9;    12.9;3610;     0.8;     4.0;    15.4
